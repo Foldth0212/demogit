@@ -1,53 +1,64 @@
-.a1{
+.a1 {
     background-color: orange;
     text-align: center;
-    
+
 }
-.a1 h3::first-letter{
+
+.a1 h3::first-letter {
     color: red;
     font-size: 30px;
 }
-.a1:hover{
+
+.a1:hover {
     background-color: aqua;
 }
-.a2{
+
+.a2 {
     background-color: orange;
     text-align: center;
 }
-.a2 img:hover{
+
+.a2 img:hover {
     size: 12px;
 }
-.a2 button{
+
+.a2 button {
     background-color: aqua;
 }
-.a2:hover{
+
+.a2:hover {
     background-color: aqua;
 }
-.a2 button:active{
+
+.a2 button:active {
     background-color: yellow;
 }
+
 img {
-        width: 200px;
-        height: 250px;
-        border: 2px solid black;
+    width: 200px;
+    height: 250px;
+    border: 2px solid black;
 
-    }
+}
 
-    img:hover {
-        width: 250px;
-        height: 300px
-    }
-    
-.a3{
+img:hover {
+    width: 250px;
+    height: 300px
+}
+
+.a3 {
     background-color: orange;
     text-align: center;
 }
-.a3 button{
+
+.a3 button {
     background-color: aqua;
 }
-.a3:hover{
+
+.a3:hover {
     background-color: aqua;
 }
-.a3 button:active{
+
+.a3 button:active {
     background-color: yellow;
 }
